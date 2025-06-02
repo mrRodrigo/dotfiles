@@ -10,10 +10,10 @@ config.cell_width = 1
 
 
 config.enable_tab_bar = false
---config.window_decorations = "RESIZE"
+config.window_decorations = "RESIZE"
 
 config.color_scheme = "Catppuccin Mocha"
-config.window_background_opacity = 0.73
-
+config.window_background_opacity = 0.78
+config.macos_window_background_blur = 10
 
 return config
