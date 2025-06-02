@@ -24,12 +24,8 @@ vim.opt.expandtab = true
 vim.opt.smartindent = true
 
 
-
-
-
 vim.opt.spell = true
 vim.opt.spelllang = "en_us"
-
 
 
 -- Enable neovim to be the external editor for Godot, if the cwd has a project.godot file
