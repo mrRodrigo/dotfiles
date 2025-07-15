@@ -14,6 +14,6 @@ config.window_decorations = "RESIZE"
 
 config.color_scheme = "Catppuccin Mocha"
 config.window_background_opacity = 0.8
-config.macos_window_background_blur = 14
+config.macos_window_background_blur = 20
 config.text_background_opacity = 0.5
 return config
